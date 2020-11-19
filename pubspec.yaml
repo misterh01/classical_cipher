@@ -1,0 +1,6 @@
+name: classical_cipher
+version: 0.1.0
+description: Encrypt and Decrypt string using classical ciphers.
+
+dev_dependencies:
+  test: ^1.15.5

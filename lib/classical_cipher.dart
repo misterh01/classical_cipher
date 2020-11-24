@@ -10,3 +10,7 @@ export 'src/goldbug.dart';
 export 'src/a1z26.dart';
 export 'src/bacon.dart';
 export 'src/atbash.dart';
+export 'src/affine.dart';
+export 'src/trithemius.dart';
+export 'src/vigenere.dart';
+export 'src/gronsfeld.dart';

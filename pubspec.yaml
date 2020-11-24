@@ -1,6 +1,8 @@
 name: classical_cipher
 version: 0.1.0
 description: Encrypt and Decrypt string using classical ciphers.
-
+repository: https://github.com/misterh01/classical_cipher
+environment:
+  sdk: '>=2.10.0 <3.0.0'
 dev_dependencies:
   test: ^1.15.5
